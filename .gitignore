@@ -1,4 +1,30 @@
-logdir/
+# Data Files
+
 VCTK-Corpus/
+
+# Idea Files
+
+.idea/workspace.xml
+
+# Node Files
+
+node_modules
+package-lock.json
+
+# Output Files
+
+build
+coverage
+dist
+lib
+out
+
+# Python Files
+
+logdir/
 *.pyc
 
+# Server Files
+
+dependency-reduced-pom.xml
+target
