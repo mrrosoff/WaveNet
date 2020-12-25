@@ -1,2 +1,15 @@
-librosa>=0.5
+numpy==1.19.3
+pandas
+matplotlib
+
+iPython
+jupyter
+
 tensorflow-gpu>=1.0.0
+
+pillow
+scikit-image
+librosa>=0.5
+
+tqdm
+requests
